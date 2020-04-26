@@ -1,0 +1,15 @@
+# MAC files
+.DS_Store
+
+# IDE
+.idea
+
+# Python
+__pycache__/
+
+# Virtual env
+venv
+env
+
+credentials.json
+token.pickle
